@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="back_space">\u232b</string>
+    <string name="square_root_symbol">\u221a</string>
+</resources>
